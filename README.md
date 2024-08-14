@@ -31,4 +31,4 @@ Utilizei Databricks (+PySpark e SparkSQL) para extrair, processar e analisar dad
 - **Databricks**: Análise e processamento de dados.
 - **Azure ADLS**: Armazenamento de dados não estruturados em nuvem.
 - **Delta Lake**: Armazenamento e tratamento de dados em formato Parquet com suporte a transações ACID.
-- **Python/Spark**: Para processamento de dados.
+- **Python/Spark**: Para processamento de dados. 
