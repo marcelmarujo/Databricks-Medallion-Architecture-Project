@@ -1,6 +1,6 @@
 # Projeto - Arquitetura Medallion no Databricks
 
-Utilizei Databricks (+PySpark e SparkSQL) para extrair, processar e analisar dados nas três camadas clássicas: Bronze, Silver e Gold. A arquitetura é projetada para ingerir, melhorar a qualidade dos dados e suportar análises com agregaç~oes avançadas de BI. Inspirado no projeto do Edmilson Alves Infinity Big Data. Segue abaixo os detalhes:
+Utilizei Databricks (Com PySpark e SparkSQL) para extrair, processar e analisar dados nas três camadas clássicas: Bronze, Silver e Gold. A arquitetura é projetada para ingerir, melhorar a qualidade dos dados e suportar análises com agregaç~oes avançadas de BI. Inspirado no projeto do Edmilson Alves Infinity Big Data. Segue abaixo os detalhes:
 
 ### Arquitetura Medalion
 
